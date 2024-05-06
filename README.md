@@ -25,14 +25,14 @@
         <p dir="auto"><code>https://www.goodiptv.club/bililive.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BiliBili直播
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;精选IPV6源
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
+<!--        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;SXG源
         </p>
-<!--       <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;GHYX源
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;CQYX源
+       <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;GHYX源
         </p> -->
+        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;CQYX源
+        </p> 
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YQGD源
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;4K/8K源
